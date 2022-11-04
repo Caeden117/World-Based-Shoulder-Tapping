@@ -2,6 +2,8 @@
 
 A VRChat package/prefab that allows players to "tap" each others shoulders and get each other's attention.
 
+This package is for VRChat worlds. For adding shoulder tapping to avatars, please use [this package by hppedeaf](https://hppedeaf.booth.pm/items/3851679).
+
 This package was made for the [Helping Hands](https://discord.gg/helpinghands) community.
 
 ## Features
